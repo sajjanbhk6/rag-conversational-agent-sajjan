@@ -95,12 +95,4 @@ Here are some ideas for future improvements:
 - [ ] Add Langchain Tools compatibility, allowing users to define custom Python functions that can be utilized by the LLMs.
 - [ ] Add web scraping in case none of the personal documents contain relevant info w.r.t. the query
 
-## 📹 Demo Video
-Watch the demo video below to see the RAG Chatbot in action:
 
-[![YT Video](https://img.youtube.com/vi/_JVt5gwwZq0/0.jpg)](https://www.youtube.com/watch?v=_JVt5gwwZq0)
-
-The demo was run on my PC with the following specifications:
-- **Processor**: Intel(R) Core(TM) i7-14700K 3.40 GHz
-- **RAM**: 32.0 GB
-- **GPU**: NVIDIA GeForce RTX 3090 FE 24 GB
