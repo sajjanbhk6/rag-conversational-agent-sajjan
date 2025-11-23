@@ -95,4 +95,4 @@ Here are some ideas for future improvements:
 - [ ] Add Langchain Tools compatibility, allowing users to define custom Python functions that can be utilized by the LLMs.
 - [ ] Add web scraping in case none of the personal documents contain relevant info w.r.t. the query
 
-
+.
